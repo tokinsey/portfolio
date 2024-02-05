@@ -10,7 +10,7 @@ Project 5: Meat Imports and Domestic Production Analysis Project
 Project 6: Elevating Safety: Traveling in Safe Hands
 Project 7: Movie Recommendation Generator
 Project 8: Hydraulic System Preventative Measures Project
-Project 9: DSC 680 - Project 2
+Project 9: E-commerce Insights: Page, Time, Purchase
 Project 10: DSC 680 - Project 3
 
 Project 1: Dataset Analysis for Death Rates and Suicides
@@ -53,10 +53,11 @@ Description: The core objective of this project is to minimize downtime and curb
 
 Link: https://github.com/tokinsey/hydraulic-maintenance-optimization
 
-Project 9: DSC 680 - Project 2
-Description: 
+Project 9: E-commerce Insights: Page, Time, Purchase
+Description: Our e-commerce platform aims to maximize user engagement to drive conversions and revenue in the competitive online retail landscape. The challenge lies in understanding the
+intricate relationship between various page categories, the duration users spend on these pages, and their subsequent likelihood of making a purchase. The business faces the challenge of optimizing user engagement and conversion rates in the competitive online retail sector by deciphering the complex interplay between various page categories, user dwell times, and the likelihood of purchasing. This project builds an analysis 
 
-Link:
+Link: https://github.com/tokinsey/e-commerce-insights.git
 
 Project 10: DSC 680 - Project 3
 Description: 
