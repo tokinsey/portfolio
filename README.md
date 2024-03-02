@@ -11,7 +11,7 @@ Project 6: Elevating Safety: Traveling in Safe Hands
 Project 7: Movie Recommendation Generator
 Project 8: Hydraulic System Preventative Measures Project
 Project 9: E-commerce Insights: Page, Time, Purchase
-Project 10: DSC 680 - Project 3
+Project 10: Leveraging Social Media and Influencers for Business Growth
 
 # Project 1: Dataset Analysis for Death Rates and Suicides
 Description: This Python project is designed to analyze datasets related to death rates and suicides, focusing on various demographic factors such as age, race, sex, and Hispanic origin. The goal is to provide insights into the patterns and trends associated with mortality and suicides within different population segments. 
@@ -59,7 +59,7 @@ intricate relationship between various page categories, the duration users spend
 
 Link: https://github.com/tokinsey/e-commerce-insights.git
 
-# Project 10: DSC 680 - Project 3
-Description: 
+# Project 10: Leveraging Social Media and Influencers for Business Growth
+Description: This project evaluates the efficacy of leveraging social media and influencers for business growth. By analyzing datasets on online influencer marketing and social influence on shopping, it aims to determine whether social media strategies and influencer partnerships increase brand visibility and engagement, ultimately boosting sales. Through data preprocessing, exploratory analysis, and statistical methods, this project seeks to develop predictive models to aid businesses in decision-making. Ethical considerations include privacy and transparency, while challenges involve data comprehensiveness and reliability.
 
-Link: 
+Link: https://github.com/tokinsey/Leveraging-Social-Media-and-Influencers-for-Business-Growth
