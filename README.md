@@ -15,6 +15,7 @@ Project 10: Leveraging Social Media and Influencers for Business Growth
 
 # Project 1: Dataset Analysis for Death Rates and Suicides
 Description: This Python project is designed to analyze datasets related to death rates and suicides, focusing on various demographic factors such as age, race, sex, and Hispanic origin. The goal is to provide insights into the patterns and trends associated with mortality and suicides within different population segments. 
+
 Link: https://github.com/tokinsey/portfolio/tree/main/death-suicide-analysis-main
 
 
