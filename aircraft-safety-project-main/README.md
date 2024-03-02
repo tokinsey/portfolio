@@ -45,7 +45,7 @@ This project aims to assure the audience about airline safety through a 3-minute
 - **Audio Impact:** Acknowledgment of lasting impact of audio presentations.
 
 ## Project Structure:
-git clone https://github.com/your-username/elevating-safety-project
+git clone https://github.com/tokinsey/portfolio/edit/main/aircraft-safety-project-main
 
 ### Contact:
 For inquiries or feedback, please feel free to reach out.
