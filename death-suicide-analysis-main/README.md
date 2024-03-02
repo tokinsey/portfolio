@@ -28,7 +28,7 @@ This Python project is designed to analyze datasets related to death rates and s
 	Utilizes statistical methods to quantify relationships.
 
 ## Clone the repository:
-	git clone https://github.com/tokinsey/death-suicide-analysis.git
+	git clone https://github.com/tokinsey/portfolio/edit/main/death-suicide-analysis-main
 
 ## Navigate to the project directory:
 	cd death-suicide-analysis
