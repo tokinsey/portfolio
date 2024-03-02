@@ -25,7 +25,7 @@ Data has been collected for each state in three areas: high school graduation ra
 - Statistical analysis tools
 
 ## Clone the Repository:
-git clone https://github.com/tokinsey/college-graduation-correlation
+git clone https://github.com/tokinsey/portfolio/edit/main/college-graduation-correlation-main
 
 ## Navigate to the project directory:
 cd college-graduation-correlation
