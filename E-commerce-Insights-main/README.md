@@ -24,7 +24,7 @@ Evaluates the significance of different features to identify key factors influen
 Uses pair plots and correlation heatmaps to visually represent patterns within the dataset and highlight key insights.
 
 # GitHub Repository:
-git clone https://github.com/tokinsey/e-commerce-insights.git
+git clone https://github.com/tokinsey/portfolio/tree/main/E-commerce-Insights-main
 
 # Requirements: 
 Python 3.x
