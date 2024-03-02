@@ -36,7 +36,7 @@ This data mining project focuses on analyzing employee data to understand the fa
 - Emphasizes responsible use of data to improve workplace conditions.
 
 ## Clone the repository:
-git clone https://github.com/tokinsey/employee-attrition-analysis
+git clone https://github.com/tokinsey/portfolio/edit/main/employee-attrition-analysis-main
 
 Navigate to the project directory: cd employee-attrition-analysis
 
