@@ -22,7 +22,7 @@ This movie recommendation generator is built on user input and utilizes a datase
 - Python 3.x
 
 ## Clone the repository:
-git clone https://github.com/tokinsey/movie-recommendation-generator
+git clone https://github.com/tokinsey/portfolio/edit/main/movie-recommendation-generator-main
 
 ## Navigate to the project directory: 
 cd movie-recommendation-generator
