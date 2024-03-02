@@ -35,4 +35,4 @@ The project relies on data sources related to meat imports and domestic producti
 
 ## Clone the repository:
 
-git clone https://github.com/tokinsey/meat-imports-analysis
+git clone https://github.com/tokinsey/portfolio/edit/main/meat-imports-analysis-main
