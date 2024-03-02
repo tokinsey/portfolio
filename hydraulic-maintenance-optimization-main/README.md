@@ -41,7 +41,7 @@ Develop a robust predictive model to:
 - Seaborn
 
 ## Clone the repository:
-git clone https://github.com/tokinsey/hydraulic-maintenance-optimization
+git clone https://github.com/tokinsey/portfolio/edit/main/hydraulic-maintenance-optimization-main
 
 ## Navigate to the project directory: 
 cd hydraulic-maintenance-optimization
