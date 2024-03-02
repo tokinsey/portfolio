@@ -38,7 +38,7 @@ This Python project is dedicated to the analysis of datasets related to electric
    - Highlights the importance of infrastructure development, policy support, and awareness campaigns for sustainable transportation.
 
 ## Clone the repository:
-	git clone https://github.com/tokinsey/electric-hybrid-analysis
+	git clone https://github.com/tokinsey/portfolio/edit/main/electric-hybrid-analysis-main
 
 ## Navigate to the project directory:
 	cd death-suicide-analysis
